@@ -6,6 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-stavrakis&layout=compact&show_icons=true&theme=graywhite" />
 </div>
 
+<h3> 🛠 Tech Stack</h3> 
+
+- 💻 &nbsp; Python | R
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB
 
 <!--
 **g-stavrakis/g-stavrakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
