@@ -1,10 +1,6 @@
 ### Hello world, I am George! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">
 
-<h3> 🛠 Tech Stack</h3> 
 
-- 💻 &nbsp; Python | R
-- 🛢 &nbsp; MySQL | PostgreSQL 
-- 🐘 &nbsp; MongoDB
 
 ## 📈 GitHub Stats
 <div>
@@ -13,16 +9,35 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-stavrakis&layout=compact&show_icons=true&theme=graywhite" />
 </div>
 
+<div>
+  <h3> 🧑‍💻 About me</h3>
+  <li> 🔭 I’m currently learning Data Science with <b>Python</b>, <b>R</b>, <b>MongoDB</b>, <b>PostgreSQL</b>.
+  <li> 📚 I’m studing a <b>MSc Business Analytics</b> at Bayes Bussines School.
+  <li> 🤓 I would love to collaborate on any project regarding <b>Machine Learning</b> and <b>Automation</b>.
+  <h3> 🛠 Tech Stack </h3>
+  <li> 💻 &nbsp; Python | R
+  <li> 🛢 &nbsp; MySQL | PostgreSQL 
+  <li> 🐘 &nbsp; MongoDB</td>
+</div>
+
 <h3> 🤝 Connect with me </h3>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-stavrakis/)
 
-<table borders='0'>
+
+
+<!--
+<table >
  <tr>
     <td><h3> 🧑‍💻 About me</h3></td>
     <td><h3> 🛠 Tech Stack </h3></td>
  </tr>
  <tr>
-    <td>Lorem ipsumjhvhjvhjvhjvhjvhjvhvhj ...</td>
+    <td>
+    <li> 🔭 I’m currently learning Data Science with <b>Python</b>, <b>R</b>, <b>MongoDB</b>, <b>PostgreSQL</b>.
+    <li> 📚 I’m studing a <b>MSc Business Analytics</b> at Bayes Bussines School.
+    <li> 🤓 I would love to collaborate on any project regarding <b>Machine Learning</b> and <b>Automation</b>.
+   </td>
     <td>
         <li> 💻 &nbsp; Python | R
         <li> 🛢 &nbsp; MySQL | PostgreSQL 
@@ -30,6 +45,7 @@
     </td>
  </tr>
 </table>
+-->
 
 
 <!--
@@ -45,4 +61,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h3> 🛠 Tech Stack</h3> 
+
+- 💻 &nbsp; Python | R
+- 🛢 &nbsp; MySQL | PostgreSQL 
+- 🐘 &nbsp; MongoDB
+
 -->
