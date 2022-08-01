@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi there I am George! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">
 
 ## 📈 GitHub Stats
 <div>
   <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=g-stavrakis&show_icons=true&theme=graywhite" />
+</div>
+
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-stavrakis&layout=compact&show_icons=true&theme=graywhite" />
 </div>
 
