@@ -11,12 +11,12 @@
 
 <div>
   <h3> 🧑‍💻 About me</h3>
-  <li> 🚀 In my current project, I am utilising <b>Natural Language Processing</b> techniques such as sentiment analysis and LDA topic modeling.
-  <li> 🔭 I’m currently learning Data Science with <b>Python</b>, <b>R</b>, <b>MongoDB</b>, <b>PostgreSQL</b>.
+  <li> 🔭 I’m currently working as a <b>Junior Data Scientist</b> at Accenture in Greece.
+  <li> 🚀 In my current project, I am utilising <b>Natural Language Processing</b> techniques and <b>Transformers</b> to extract textual data from PDFs.
   <li> 📚 I’m an <b>MSc Business Analytics</b> graduate from Bayes Business School.
   <li> 🤓 I would love to collaborate on any project regarding <b>Machine Learning</b> and <b>Automation</b>.
   <h3> 🛠 Tech Stack </h3>
-  <li> 💻 &nbsp; Python | R
+  <li> 💻 &nbsp; Python | R | Javascript
   <li> 🛢 &nbsp; MySQL | PostgreSQL 
   <li> 🐘 &nbsp; MongoDB</td>
 </div>
