@@ -11,7 +11,7 @@
 
 <div>
   <h3> 🧑‍💻 About me</h3>
-  <li> 🔭 I’m currently working as a <b>Junior Data Scientist</b> at Accenture in Greece.
+  <li> 🔭 I’m currently working as a <b>AI Engineer</b> at IBM in Greece.
   <li> 🚀 In my current project, I am utilising <b>NLP</b> techniques and <b>Transformers</b> to extract textual data from PDFs.
   <li> 📚 I’m an <b>MSc Business Analytics</b> graduate from Bayes Business School.
   <li> 🤓 I would love to collaborate on any project regarding <b>Machine Learning</b> and <b>Automation</b>.
